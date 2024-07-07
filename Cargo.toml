@@ -1,0 +1,12 @@
+[package]
+name = "code2block"
+version = "0.1.0"
+edition = "2021"
+authors = ["krozzzis"]
+
+[dependencies.iced]
+version = "0.12.1"
+features = ["canvas"]
+
+[dependencies]
+lang-c = "0.15.1"
